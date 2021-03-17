@@ -1,6 +1,6 @@
 # See: https://dart.dev/tools/pub/pubspec
 name: dogma
-version: 0.0.2
+version: 1.0.0
 description: >-
   Dogma for Dart.
 homepage: https://github.com/dogmatists/dogma.dart
@@ -8,9 +8,9 @@ repository: https://github.com/dogmatists/dogma.dart
 issue_tracker: https://github.com/dogmatists/dogma.dart/issues
 documentation:
 dependencies:
-  meta: ^1.1.8
+  meta: '>=1.1.8'
 dev_dependencies:
-  pedantic: ^1.9.2
+  pedantic: '>=1.9.2'
   test: any
 dependency_overrides:
 environment:
